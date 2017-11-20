@@ -1,2 +1,3 @@
 # Jennycide
 A game about killing Jennys and stuff...
+Download the whole file for the version you want aand then just run the .exe
